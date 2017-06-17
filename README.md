@@ -58,7 +58,7 @@ allprojects {
   #### 项目中添加
 ```java
   dependencies {
-	         compile 'com.github.zhangxiang0316:BottomDialog:1.0.1'
+	      compile 'com.github.zhangxiang0316:BottomDialog:1.0.0'
 	}
 
         
